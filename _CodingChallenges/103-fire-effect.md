@@ -18,6 +18,14 @@ videos:
 - title: "What is Perlin Noise?"
   playlist_id: "PLRqwX-V7Uu6bgPNQAdxQZpJuJCjeOr7VD"
 
+
+contributions:
+  - title: "p5.js Fire!"
+    author:
+      name: "Spongman"
+    url: "https://codepen.io/Spongman/full/LmBMbw/"
+    source: "https://codepen.io/Spongman/pen/LmBMbw?editors=0011"
+
 ---
 
 In this coding challenge, I implement a pixel-based “fire” algorithm using Processing (Java). 
